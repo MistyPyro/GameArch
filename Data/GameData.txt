@@ -1,0 +1,24 @@
+#game
+800
+600
+300
+475
+16.7
+130
+18
+0.487
+3200.0
+3
+400.0
+30
+50.0
+..\Assets\
+..\..\shared\assets\
+..\..\shared\assets\minetrap\
+spidermanspritesheetEating
+smurf_sprites.png
+kenney_toon-characters\Female person\PNG\Poses\
+kenney_smoke-particles\PNG\Explosion\
+character_femalePerson_walk
+backgroundStreetBig.png
+cour.ttf

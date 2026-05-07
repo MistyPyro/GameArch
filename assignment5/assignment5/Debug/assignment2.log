@@ -1,0 +1,20 @@
+﻿  Game.cpp
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(318,39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(329,48): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(411,48): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(412,39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(468,48): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(479,39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(592,60): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(599,60): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(633,60): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Game.cpp(641,60): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  assignment2.vcxproj -> C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\Debug\assignment5.exe
+  ..\..\shared\SDL3-3.2.8\lib\x86\libavif-16.dll
+  ..\..\shared\SDL3-3.2.8\lib\x86\libtiff-6.dll
+  ..\..\shared\SDL3-3.2.8\lib\x86\libwebp-7.dll
+  ..\..\shared\SDL3-3.2.8\lib\x86\libwebpdemux-2.dll
+  ..\..\shared\SDL3-3.2.8\lib\x86\SDL3.dll
+  ..\..\shared\SDL3-3.2.8\lib\x86\SDL3_image.dll
+  ..\..\shared\SDL3-3.2.8\lib\x86\SDL3_ttf.dll
+  7 File(s) copied
