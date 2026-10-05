@@ -1,5 +1,15 @@
-﻿  AudioManager.cpp
+﻿  Animation.cpp
+  AnimationManager.cpp
+  AudioManager.cpp
+  Color.cpp
+  Font.cpp
+  GraphicsBuffer.cpp
+  GraphicsBufferManager.cpp
+  GraphicsSystem.cpp
+  InputEvent.cpp
   InputSystem.cpp
   MenuManager.cpp
+  MouseEvent.cpp
+  Sprite.cpp
   Generating Code...
-  GraphicsLib.vcxproj -> C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\GraphicsLib\Debug\GraphicsLib.lib
+  GraphicsLib.vcxproj -> C:\Users\robert.archambault\Desktop\GameArchGit\GameArch\project\assignment5\GraphicsLib\Debug\GraphicsLib.lib

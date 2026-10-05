@@ -1,1 +1,2 @@
 C:\Users\cskaa\OneDrive\Desktop\Game Arch\trunk\Archambault.Skaarup\assignment5\GraphicsLib\Debug\GraphicsLib.lib
+C:\Users\robert.archambault\Desktop\GameArchGit\GameArch\project\assignment5\GraphicsLib\Debug\GraphicsLib.lib
